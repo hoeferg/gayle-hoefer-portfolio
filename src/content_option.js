@@ -12,28 +12,28 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: " a full stack software engineer with a passion for creating projects through that help people.",
+    description: "A full stack software engineer.",
     your_img_url: GaylePic,
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "about about my self",
+    aboutme: "I'm Gayle Hoefer, a Software Em with a passion for creating websites that help people. Throughout my career, I've had the privilege of working on projects that have allowed me to blend creativity with innovation, and my portfolio is a testament to the dedication I have for my craft.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Software Engineer",
+        where: "Healthcare Download",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Sales Associate ",
+        where: "Best Buy",
+        date: "2022",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Middle School Science Teacher",
+        where: "Pendergast Elementary School",
+        date: "2020 - 2022",
     },
 ];
 
